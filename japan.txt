@@ -1,0 +1,4 @@
+Population: 125.1 million
+Captial: Tokyo 
+Largest City: Tokyo
+Continent: Asia
